@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: /index.html
+  - title: "About"
+    url: /about/
+  - title: "Achievements"
+    url: /achievements/
+  - title: "Archive"
+    url: /categories/
